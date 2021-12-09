@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "adventofcode2021",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc23/adventofcode2021.git"
+  },
+  "author": "rc23",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6"
+  }
+}
